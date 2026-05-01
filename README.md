@@ -45,10 +45,10 @@
 ## 🖼️ Project Preview
 
 ### Login Screen
-![Login](images/login.png)
+<img src="images/login.png" width="350"/>
 
 ### Chat Screen
-![Chat](images/chat.png)
+<img src="images/chat.png" width="350"/>
 
 ## 🚀 Quick Start
 
