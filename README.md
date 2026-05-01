@@ -42,6 +42,13 @@
 | 🎯 **User-friendly** | Simple interface, easy to use |
 
 ---
+## 🖼️ Project Preview
+
+### Login Screen
+![Login](images/login.png)
+
+### Chat Screen
+![Chat](images/chat.png)
 
 ## 🚀 Quick Start
 
